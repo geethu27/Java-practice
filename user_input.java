@@ -35,7 +35,7 @@ public class user_input {
         // Using hasNext()/ hasNextInt()
         Scanner sc = new Scanner(System.in);
 
-        // Initializing values for int and count
+        // Initializing values for int6d and count
         int sum = 0, count = 0;
         System.out.println("Enter integer values to calculate mean(type 'done' to finish):");
 
